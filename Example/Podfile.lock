@@ -1,0 +1,23 @@
+PODS:
+  - SDL (0.1.0):
+    - ZUCore (~> 0.0.1)
+  - ZUCore (0.0.9)
+
+DEPENDENCIES:
+  - SDL (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - ZUCore
+
+EXTERNAL SOURCES:
+  SDL:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDL: 34518087eaca0a2644be61cb02d998de124f7464
+  ZUCore: bce0bad43fe35dad453f03987db9d872a53d2fa2
+
+PODFILE CHECKSUM: 4b4fb04c6e0009d281e58a07bab1e4d98ae4a387
+
+COCOAPODS: 1.11.3
