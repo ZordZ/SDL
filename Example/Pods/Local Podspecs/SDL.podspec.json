@@ -1,9 +1,9 @@
 {
   "name": "SDL",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "summary": "SDL - segue data layer to transfer data from one vc to another by router and links.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/MrTrent/SDL",
+  "homepage": "https://github.com/ZordZ/SDL",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "MrTrent": "show6time@gmail.com"
   },
   "source": {
-    "git": "https://github.com/MrTrent/SDL.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/ZordZ/SDL.git",
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "13.0"
@@ -23,7 +23,7 @@
   "source_files": "SDL/Classes/**/*",
   "dependencies": {
     "ZUCore": [
-      "~> 0.0.1"
+      "~> 0.1.0"
     ]
   },
   "swift_version": "5.0"

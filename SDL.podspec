@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SDL'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'SDL - segue data layer to transfer data from one vc to another by router and links.'
 
 # This description is used to generate tags and improve search results.
@@ -42,5 +42,6 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'ZUCore', '~> 0.0.1'
+  s.dependency 'ZUCore', '~> 0.1.0'
+  
 end
